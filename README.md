@@ -1,6 +1,6 @@
 # 🎵 Streamify+ Music Player
 
-![streamify-logo.jpg]
+![Streamify Logo](streamify-logo.jpg)
 
 
 A modern, clean, and minimal **MP3 music player web app** built using **Streamlit**.  
